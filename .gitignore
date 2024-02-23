@@ -1,0 +1,11 @@
+slurm-*
+*.pt
+trained_models/runs
+temporal/*.jpg
+inference/*.jpg
+__pycache__
+*.pth
+*.pkl
+detr/run1
+.DS_Store
+runs/
